@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-
+import './db.json' from ./db.json 
 import Header from './components/Header'
 import ToyForm from './components/ToyForm'
 import ToyContainer from './components/ToyContainer'
